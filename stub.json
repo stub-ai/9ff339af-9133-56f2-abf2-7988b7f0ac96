@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"swift code for a simple tank battle game","md5":"3c3bde46d02d7609667029e88941272e"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"swift code for a simple tank battle game","md5":"3c3bde46d02d7609667029e88941272e"},{"prompt":"C++ code for a tank battle game","md5":"b5e72c922224a5e32b2de2f5808f4a21"}]}
